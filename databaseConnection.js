@@ -4,9 +4,9 @@ const is_heroku = process.env.IS_HEROKU || false;
 
 const dbConfigHeroku = {
 	host: "us-cdbr-east-03.cleardb.com",
-	user: "b1ab7fb2ee03bc",
-	password: "2a484a2d",
-	database: "heroku_3d208ad4bd6f421",
+	user: "b0689e785f8758",
+	password: "d69c0fd7",
+	database: "heroku_0293b86fe1d0b68",
 	multipleStatements: false
 };
 
